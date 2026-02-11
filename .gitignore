@@ -1,2 +1,7 @@
 .idea
-__pycache__
+__pycache__/
+adb/
+*.zip
+.venv/
+venv/
+*.pyc
